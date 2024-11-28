@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+YUJEONG's+Github!;I+am+a+game+client+programmer+using+unreal+engine+5.;)](https://git.io/typing-svg)
 
 <!--
 **JeonYujeong7127/JeonYujeong7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
