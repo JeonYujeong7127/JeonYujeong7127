@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 ### 📊 **Languages & Tools**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonYujeong7127)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp; 
+
+---
+
 &nbsp;&nbsp;
 ### 🛠 **Tech Stack**
 
