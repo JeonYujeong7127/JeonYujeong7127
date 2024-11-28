@@ -58,7 +58,7 @@ Feel free to reach out to me via:
 
 ✉️ [yjeon71271@gmail.com](mailto:yjeon71271@gmail.com)
 
-&nbsp;
+
 
 📱 010-5639-7127
 
