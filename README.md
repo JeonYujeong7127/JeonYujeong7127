@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+YUJEONG's+Github!;I+am+a+game+client+programmer;using+unreal+engine+5.;)](https://git.io/typing-svg)
-
 <!--
 **JeonYujeong7127/JeonYujeong7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+YUJEONG's+Github!;I+am+a+game+client+programmer;using+unreal+engine+5.;)](https://git.io/typing-svg)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonYujeong7127)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,3 +32,5 @@ Here are some ideas to get you started:
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div>
