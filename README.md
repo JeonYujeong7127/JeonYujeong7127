@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
-#Tech Stack
+# Tech Stack
 
 
 
-##Main Stack
+## Main Stack
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-##Sub Stack
+## Sub Stack
 
 
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-##IDE
+## IDE
 
 
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-##Graphic Tool
+## Graphic Tool
 
 
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-#Contact me! :
+# Contact me! :
 
 
 yjeon71271@gmail.com 
