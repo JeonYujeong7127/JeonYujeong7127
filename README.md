@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)](https://git.io/typing-svg)
 
 ---
-
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonYujeong7127)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;
 ---
-
+&nbsp;
 # Tech Stack
 &nbsp;
 ## Main Stack
@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ## Graphic Tool
 &nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
+&nbsp;
 ---
-
+&nbsp;
 # Contact me! :
 &nbsp;
 yjeon71271@gmail.com 
