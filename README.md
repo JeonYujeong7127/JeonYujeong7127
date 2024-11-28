@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)
-&nbsp;
+&nbsp;&nbsp;
 
 ---
-
+&nbsp;&nbsp;
 
 ### 📊 **Languages & Tools**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonYujeong7127)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
+&nbsp;&nbsp;
 
 ---
-
+&nbsp;&nbsp;
 ### 🛠 **Tech Stack**
 
 #### **Main Stack**
@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 &nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+&nbsp;&nbsp;
 ---
-
+&nbsp;&nbsp;
 ### 📫 **Contact me!**
 
 Feel free to reach out to me via:
@@ -61,5 +62,5 @@ Feel free to reach out to me via:
 
 
 📱 010-5639-7127
-
+&nbsp;&nbsp;
 </div>
