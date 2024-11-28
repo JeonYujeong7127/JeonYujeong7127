@@ -24,41 +24,25 @@ Here are some ideas to get you started:
 ---
 
 # Tech Stack
-
-
-
+<br>
 ## Main Stack
-
-
-
+<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-
-
+<br>
 ## Sub Stack
-
-
-
+<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
+<br>
 ## IDE
-
-
-
+<br>
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-
-
-
+<br>
 ## Graphic Tool
-
-
-
+<br>
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ---
@@ -67,13 +51,8 @@ Here are some ideas to get you started:
 
 
 yjeon71271@gmail.com 
-
-
-
-or
-
-
-
+<br>
+or<br>
 01056397127
 
 </div>
