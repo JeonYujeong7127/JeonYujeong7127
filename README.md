@@ -15,42 +15,47 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)
 
 ---
+
 &nbsp;
+
+### 📊 **Languages & Tools**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonYujeong7127)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><br>
-# Tech Stack
-&nbsp;
-## Main Stack
+
+---
+
+### 🛠 **Tech Stack**
+
+#### **Main Stack**
 &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-&nbsp;
-## Sub Stack
+
+#### **Sub Stack**
 &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
-## IDE
+
+#### **IDE**
 &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-&nbsp;
-## Graphic Tool
+
+#### **Graphic Tool**
 &nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-&nbsp;
+
 ---
-&nbsp;
-# Contact me!
-&nbsp;
-yjeon71271@gmail.com 
-&nbsp;
-or
-&nbsp;
-01056397127
+
+### 📫 **Contact me!**
+
+Feel free to reach out to me via:
+
+- ✉️ [yjeon71271@gmail.com](mailto:yjeon71271@gmail.com)
+- 📱 010-5639-7127
 
 </div>
