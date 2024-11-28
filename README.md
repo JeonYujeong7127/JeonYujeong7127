@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 &nbsp;
 ---
 &nbsp;
-# Contact me! :
+# Contact me!
 &nbsp;
 yjeon71271@gmail.com 
 &nbsp;
