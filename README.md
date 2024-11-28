@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)
+&nbsp;
 
 ---
 
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 
 Feel free to reach out to me via:
 
-- ✉️ [yjeon71271@gmail.com](mailto:yjeon71271@gmail.com)
-- 📱 010-5639-7127
+✉️ [yjeon71271@gmail.com](mailto:yjeon71271@gmail.com)
+📱 010-5639-7127
 
 </div>
