@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 
 
-Contact me : ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Contact me : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjeon71271@gmail.com)
 
 </div>
