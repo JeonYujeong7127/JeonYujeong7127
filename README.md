@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+YUJEONG's+Github!;I+am+a+Game+Client+Programmer;using+Unreal+Engine+5.)
 &nbsp;&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonYujeong7127&count_bg=%23FFFFFF&title_bg=%23390986&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+&nbsp;&nbsp;
 
 ---
 &nbsp;&nbsp;
